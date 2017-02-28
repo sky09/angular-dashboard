@@ -14,7 +14,7 @@ You can also:
   - Export documents as Markdown, HTML and PDF
   
 ### App Overview
-<img src="https://github.com/sky09/angular-dahsboard/blob/master/1.png" width="24.5%" />
-<img src="https://github.com/sky09/angular-dahsboard/blob/master/2.png" width="24.5%" />
-<img src="https://github.com/sky09/angular-dahsboard/blob/master/3.png" width="24.5%" />
+<img src="https://github.com/sky09/angular-dahsboard/blob/master/iphone7p-2.png" width="24.5%" />
+<img src="https://github.com/sky09/angular-dahsboard/blob/master/iphone7p-3.png" width="24.5%" />
+<img src="https://github.com/sky09/angular-dahsboard/blob/master/iphone7p-4.png" width="24.5%" />
 
